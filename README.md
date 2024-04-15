@@ -1,9 +1,12 @@
-# Ghost_Goblins_App_Mobile
+# Aplicativo de Ghost'n Goblins
 - **Autores**: Filipe Custodio, João Lucas
-## O que é o Bestiário de Ghost Goblins?
- O bestiário de Ghost Goblins é um projeto de aplicativo mobile, desenvolvido para o sistema Android com o Framework Flutter. A ideia do aplicativo é auxiliar jogadores a conhecer melhor as criaturas e a história do jogo, fornecendo essas infomações detalhadamente nas páginas do bestiário.
+  
+<img src="https://s2-techtudo.glbimg.com/yD8-9a7PAE_n07Bgge_-LwlIlK0=/0x0:695x450/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/l/f/evcogxRh6BBVtEjDZK4A/2016-03-18-ghosts-n-goblins-classico-dificuldade.jpg">
 
-## Onde posso saber mais sobre o aplicativo
+## O que é o Bestiário de Ghost'n Goblins?
+ O bestiário de Ghost'n Goblins é um projeto de aplicativo mobile, desenvolvido para o sistema Android com o Framework Flutter. A ideia do aplicativo é auxiliar jogadores a conhecer melhor as criaturas e a história do jogo, fornecendo essas infomações detalhadamente nas páginas do bestiário.
+
+## Onde posso saber mais sobre o aplicativo?
 Abaixo estão listados os Links para a Wiki do Bestiário. Você também pode clicar [AQUI](https://github.com/FilipeCGEtec/Ghost_Goblins_App_Mobile/wiki) para ser direcionado diretamente para a Home Page.
 - [Home](https://github.com/FilipeCGEtec/Ghost_Goblins_App_Mobile/wiki)
 - [AppBar](https://github.com/FilipeCGEtec/Ghost_Goblins_App_Mobile/wiki/AppBar)
