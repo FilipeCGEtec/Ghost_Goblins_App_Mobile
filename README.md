@@ -1,5 +1,5 @@
 # Aplicativo de Ghost'n Goblins
-- **Autores**: Filipe Custodio, João Lucas
+- **Autores**: Gabriele Batista, João Lucas
   
 <img src="https://s2-techtudo.glbimg.com/yD8-9a7PAE_n07Bgge_-LwlIlK0=/0x0:695x450/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/l/f/evcogxRh6BBVtEjDZK4A/2016-03-18-ghosts-n-goblins-classico-dificuldade.jpg">
 
