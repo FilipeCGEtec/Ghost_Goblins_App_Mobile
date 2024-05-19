@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# app_ghost
-
-A new Flutter project.
-=======
 # Aplicativo de Ghost'n Goblins
 - **Autores**: Gabriele Batista, João Lucas
   
@@ -26,4 +21,3 @@ Abaixo estão listados os Links para a Wiki do Bestiário. Você também pode cl
 - [Tela de Início](https://github.com/FilipeCGEtec/Ghost_Goblins_App_Mobile/wiki/Tela-de-In%C3%ADcio)
 - [Text](https://github.com/FilipeCGEtec/Ghost_Goblins_App_Mobile/wiki/Text)
 - [Visual Studio Code](https://github.com/FilipeCGEtec/Ghost_Goblins_App_Mobile/wiki/Visual-Studio-Code)
->>>>>>> 8f95e3c3977eba702b7792a6235158fc3e5f0d82
