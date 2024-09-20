@@ -20,7 +20,7 @@ class enredo extends StatelessWidget {
             decoration: BoxDecoration(
               image: DecorationImage(
                 image: NetworkImage(
-                  'https://pbs.twimg.com/media/FHmibpMXIAAteoJ?format=jpg&name=900x900',
+                  'img/fundo.jpeg',
                 ),
                 fit: BoxFit.cover,
               ),

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'enredo.dart';
 import 'joga.dart';
-import 'besta.dart'; //importando o arquivo da outra tela
+import 'bestiario.dart'; 
 
 void main() {
   runApp(TelaPrincipal());
@@ -20,14 +20,14 @@ class TelaPrincipal extends StatelessWidget {
               decoration: BoxDecoration(
                 image: DecorationImage(
                   image: NetworkImage(
-                    'https://pbs.twimg.com/media/FHmibpMXIAAteoJ?format=jpg&name=900x900',
+                    'img/fundo.jpeg',
                   ),
                   fit: BoxFit.cover,
                 ),
               ),
               child: Container(
                   color: Colors.black
-                      .withOpacity(0.2) // sombra de fundo, intensidade.
+                      .withOpacity(0.4) 
                   ),
             ),
             Positioned(
@@ -44,28 +44,10 @@ class TelaPrincipal extends StatelessWidget {
                       height: 66,
                     ),
                     SizedBox(height: 8),
-                    ShaderMask(
-                      shaderCallback: (Rect bounds) {
-                        return LinearGradient(
-                          begin: Alignment.topCenter,
-                          end: Alignment.bottomCenter,
-                          colors: [
-                            Colors.white,
-                            Color(0xFFEA2F2F),
-                            Color(0xFFEAEE2D),
-                          ],
-                        ).createShader(bounds);
-                      },
-                      child: Text(
-                        'Bestiário',
-                        style: TextStyle(
-                            color: Colors.white,
-                            fontSize: 48,
-                            fontWeight: FontWeight.bold,
-                            fontFamily: 'JotiOne',
-                            backgroundColor: Colors.black.withOpacity(0.7)),
-                      ),
-                    ),
+                    Image.network(
+                      'img/subtitulo.png',
+                      height: 47,
+                      )
                   ],
                 ),
               ),
@@ -112,7 +94,7 @@ class TelaPrincipal extends StatelessWidget {
                     onPressed: () {
                       Navigator.push(
                         context,
-                        MaterialPageRoute(builder: (context) => besta()),
+                        MaterialPageRoute(builder: (context) => BestaScreen()),
                       );
                     },
                   ),
@@ -137,4 +119,3 @@ class TelaPrincipal extends StatelessWidget {
     );
   }
 }
-

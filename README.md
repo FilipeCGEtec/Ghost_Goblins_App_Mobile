@@ -19,6 +19,7 @@ Abaixo estão listados os Links para a Wiki do Bestiário. Você também pode cl
 - [Image](https://github.com/FilipeCGEtec/Ghost_Goblins_App_Mobile/wiki/Image)
 - [Jogabilidade](https://github.com/FilipeCGEtec/Ghost_Goblins_App_Mobile/wiki/Jogabilidade)
 - [Navegação de Telas](https://github.com/FilipeCGEtec/Ghost_Goblins_App_Mobile/wiki/Navega%C3%A7%C3%A3o-de-Telas)
+- [Diagrama de Classes](https://github.com/FilipeCGEtec/Ghost_Goblins_App_Mobile/wiki/Diagrama-de-Classes)
 - [Tela de Início](https://github.com/FilipeCGEtec/Ghost_Goblins_App_Mobile/wiki/Tela-de-In%C3%ADcio)
 - [Text](https://github.com/FilipeCGEtec/Ghost_Goblins_App_Mobile/wiki/Text)
 - [Visual Studio Code](https://github.com/FilipeCGEtec/Ghost_Goblins_App_Mobile/wiki/Visual-Studio-Code)
